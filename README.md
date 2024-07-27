@@ -13,3 +13,13 @@ This project aims to analyze railway passenger data and reservation details to d
 - ticketfare: INT(10) - Ticket Fare
 - paymentmode: VARCHAR(30) - Payment Mode
 - destination: VARCHAR(30) - Destination
+![image](https://github.com/user-attachments/assets/c22470a2-b3ad-40ab-9bbb-194e7bf80b44)
+
+![image](https://github.com/user-attachments/assets/09dfc222-b3a6-43d8-9afd-6dd9955cbdf7)
+
+![image](https://github.com/user-attachments/assets/07bde9fb-03e7-44db-8dd7-0968f861d6f8)
+
+![image](https://github.com/user-attachments/assets/f347dd65-e1fd-4533-a4cd-e29a61844e19)
+
+![image](https://github.com/user-attachments/assets/de24812d-60b9-4d07-ab14-b6ac5095f06c)
+
